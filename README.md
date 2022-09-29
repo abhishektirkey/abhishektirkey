@@ -15,6 +15,9 @@
 
 - 📚 My Portfolio Website :  [https://abhishektirkey.github.io/](https://abhishektirkey.github.io/)
 
+- ![download](https://user-images.githubusercontent.com/93339541/193100698-e7bd5f93-7345-4b62-8c45-6aa5d2706a74.png)
+  https://linktr.ee/abhishektirkey
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/abhi_trky" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jhajibhaskar" height="30" width="40" /></a>
