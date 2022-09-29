@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **DSA & Machine Learning**
 
-- 💬 Ask me about **Python & MySQL**
+- 💬 Ask me about **C++ & MySQL**
 
 - 📫 You Can reach me at    :  **abhishek281629@gmail.com**
 
