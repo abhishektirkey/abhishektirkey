@@ -9,14 +9,13 @@
 
 - 💬 Ask me about **Python & MySQL**
 
-- 📫 You Can reach me at :  **abhishek281629@gmail.com**
+- 📫 You Can reach me at    :  **abhishek281629@gmail.com**
 
 - 📄 Know More about myself :  [https://www.linkedin.com/in/abhishektirkey/](https://www.linkedin.com/in/jhajibhaskar/)
 
-- 📚 My Portfolio Website :  [https://abhishektirkey.github.io/](https://abhishektirkey.github.io/)
+- 📚 My Portfolio Website   :  [https://abhishektirkey.github.io/](https://abhishektirkey.github.io/)
 
-- ![download](https://user-images.githubusercontent.com/93339541/193100698-e7bd5f93-7345-4b62-8c45-6aa5d2706a74.png)
-  https://linktr.ee/abhishektirkey
+-🌳 My Linktr.ee Link       :  [https://linktr.ee/abhishektirkey/](https://linktr.ee/abhishektirkey/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -25,6 +24,7 @@
 <a href="https://fb.com/abhishek281629" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jhajibhaskar0" height="30" width="40" /></a>
 <a href="https://instagram.com/abhi_trky15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jhajibhaskar" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/abhishek_nitpy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="xyz2022" height="30" width="40" /></a>
+<a href="https://linktr.ee/abhishektirkey" target="blank"><img align="center" src="https://user-images.githubusercontent.com/93339541/193100698-e7bd5f93-7345-4b62-8c45-6aa5d2706a74.png" alt="xyz2022" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
