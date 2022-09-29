@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishektirkey&label=Profile%20views&color=0e75b6&style=flat" alt="jhajibhaskar" /> </p>
 
-<p align="left"> <a href="https://twitter.com/abhishektirkey" target="blank"><img src="https://img.shields.io/twitter/follow/abhishektirkey?logo=twitter&style=for-the-badge" alt="abhishektirkey" /></a> </p>
+<p align="left"> <a href="https://twitter.com/abhi_trky" target="blank"><img src="https://img.shields.io/twitter/follow/abhishektirkey?logo=twitter&style=for-the-badge" alt="abhishektirkey" /></a> </p>
 
 - 🌱 I’m currently learning **DSA & Machine Learning**
 
